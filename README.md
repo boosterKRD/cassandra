@@ -1,7 +1,6 @@
 ### Main
 **run cassandra cluster**  
 `docker-compose up -d`
-12
 
 ### Usful cmd
 
